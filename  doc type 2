@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<h1>Types of web browsers</h1>
+<body>
+<ul>
+<li>Chrome</li>
+<li>microsoft edge</li>
+<li>Netscape communication</li>
+<li>mozilla firefox</li>
+<li>microsof edge</li>
+<li>opera</li>
+</ul>
+    <h2>Types of search engiene optimization</h2>
+    <ol.Type of search engine optimization
+    <li>On_page SEO</li>
+    <li>OFF_page SEO</li>
+    <li>Technical SEO </li>
+    <li>Local SEO</li>
+    <li>Mobile SEO</li>
+    <li>voice SEO</li>
+    </ol>
+    <h3>Types of bevaerages</h3>
+    <dl>
+        <dd><strong>coffee</strong></dd>
+        <dt>white</dt>
+        <dd><strong>tea</strong></dd>
+        <dt>black</dt>
+        <dd><strong>juice</strong></dd>
+        <dt>orange</dt>
+        <dd><strong>water</strong></dd>
+        <dt>mineral</dt>
+        
+    </dl>
+
+</body>
+</html>
+
